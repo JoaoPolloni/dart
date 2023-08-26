@@ -12,4 +12,5 @@ void main() {
     expect(media({}), 0);
     expect(media([14, 16, 16, 18]), 16);
     expect(media([12, 14, 14, 16]), 14);
-  })};
+  
+  };
