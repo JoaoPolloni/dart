@@ -1,10 +1,7 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
 Crie uma aplicação com Dart utilizando todos os  conceitos apresentados em aula (construtores, atributos, métodos, herança, polimorfismo, enums, coesão, encapsulamento e acoplamento).
 
 Para comprovar a  funcionalidade do software, escreva testes unitários.
 
-Códigos plagiados/copiados serão desconsiderados.
 
 Tema -> Aplicação Bancária 
 
@@ -22,5 +19,3 @@ Ações:
 - Aplicações
 
 Montar cenários compatíveis para testes unitários.
-
-Enviar arquivo .zip da aplicação.

@@ -43,15 +43,16 @@ Este guia de estudos serve para exemplificar e compactar conceitos de Programaç
 #### Encapsulamento
 - Colocar em cápsula.
 
+- Ele se refere à prática de esconder os detalhes internos de um objeto e fornecer uma interface pública clara por meio da qual outros objetos podem interagir com ele. Em resumo, o encapsulamento envolve o conceito de "encapsular" os dados (atributos) e os métodos (comportamentos) relacionados a um objeto em uma única unidade, a classe.
+
 
 #### Coesão
 - Coerência de um pensamento, ou seja, os nomes,  métodos e atributos devem fazer sentido para a classe.
 
-- [Exemplo]()
-
 #### Acoplamento
 - Nível de dependência entre as classes.
 
+- O acoplamento é um conceito importante na programação orientada a objetos (POO) e se refere ao grau de dependência entre as diferentes partes de um sistema de software, como classes ou módulos. Em outras palavras, o acoplamento mede o quanto uma classe ou componente está interligado a outros componentes do sistema. O objetivo é minimizar o acoplamento sempre que possível, pois um baixo acoplamento torna o código mais flexível, reutilizável e fácil de manter.
 
 #### Enum
 - Conjunto especial no Dart, onde é possível utilizar como constante e pode possuir atributos e métodos.
